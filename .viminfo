@@ -11,10 +11,12 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:wq
-|2,0,1709306108,,"wq"
 :q
-|2,0,1709283871,,"q"
+|2,0,1709369781,,"q"
+:w
+|2,0,1709369777,,"w"
+:wq
+|2,0,1709369763,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -27,230 +29,357 @@
 # Registers:
 
 # File marks:
-'0  14  7  ~/demo.py
-|4,48,14,7,1709308044,"~/demo.py"
-'1  5  42  ~/first_file/first.py
-|4,49,5,42,1709306108,"~/first_file/first.py"
-'2  11  16  ~/first_file/first.py
-|4,50,11,16,1709305996,"~/first_file/first.py"
-'3  11  16  ~/first_file/first.py
-|4,51,11,16,1709305996,"~/first_file/first.py"
-'4  5  34  ~/first_file/first.py
-|4,52,5,34,1709305896,"~/first_file/first.py"
-'5  5  34  ~/first_file/first.py
-|4,53,5,34,1709305896,"~/first_file/first.py"
-'6  5  34  ~/first_file/first.py
-|4,54,5,34,1709305896,"~/first_file/first.py"
-'7  1  21  ~/first_file/first.py
-|4,55,1,21,1709305841,"~/first_file/first.py"
-'8  1  21  ~/first_file/first.py
-|4,56,1,21,1709305841,"~/first_file/first.py"
-'9  1  21  ~/first_file/first.py
-|4,57,1,21,1709305841,"~/first_file/first.py"
+'0  5  2  /test_case.sh
+|4,48,5,2,1709369791,"/test_case.sh"
+'1  5  3  ~/for_shell_1.sh
+|4,49,5,3,1709365652,"~/for_shell_1.sh"
+'2  10  16  ~/while_shell_3.sh
+|4,50,10,16,1709365396,"~/while_shell_3.sh"
+'3  10  3  ~/while_shell_3.sh
+|4,51,10,3,1709365297,"~/while_shell_3.sh"
+'4  5  3  ~/myfile.txt
+|4,52,5,3,1709364887,"~/myfile.txt"
+'5  7  3  ~/while_shell.sh
+|4,53,7,3,1709364309,"~/while_shell.sh"
+'6  1  30  ~/for_loop_2.sh
+|4,54,1,30,1709363723,"~/for_loop_2.sh"
+'7  1  21  ~/for_loop_2.sh
+|4,55,1,21,1709363636,"~/for_loop_2.sh"
+'8  4  3  ~/for_loop_2.sh
+|4,56,4,3,1709363557,"~/for_loop_2.sh"
+'9  4  3  ~/for_loop_2.sh
+|4,57,4,3,1709363557,"~/for_loop_2.sh"
 
 # Jumplist (newest first):
--'  14  7  ~/demo.py
-|4,39,14,7,1709308044,"~/demo.py"
--'  5  42  ~/first_file/first.py
-|4,39,5,42,1709306108,"~/first_file/first.py"
--'  11  16  ~/first_file/first.py
-|4,39,11,16,1709306005,"~/first_file/first.py"
--'  11  16  ~/first_file/first.py
-|4,39,11,16,1709305996,"~/first_file/first.py"
--'  5  34  ~/first_file/first.py
-|4,39,5,34,1709305904,"~/first_file/first.py"
--'  5  34  ~/first_file/first.py
-|4,39,5,34,1709305896,"~/first_file/first.py"
--'  1  21  ~/first_file/first.py
-|4,39,1,21,1709305867,"~/first_file/first.py"
--'  1  21  ~/first_file/first.py
-|4,39,1,21,1709305867,"~/first_file/first.py"
--'  1  21  ~/first_file/first.py
-|4,39,1,21,1709305867,"~/first_file/first.py"
--'  1  21  ~/first_file/first.py
-|4,39,1,21,1709305841,"~/first_file/first.py"
--'  1  21  ~/demo.py
-|4,39,1,21,1709305785,"~/demo.py"
--'  1  21  ~/demo.py
-|4,39,1,21,1709305785,"~/demo.py"
--'  1  21  ~/demo.py
-|4,39,1,21,1709305785,"~/demo.py"
--'  1  21  ~/demo.py
-|4,39,1,21,1709305785,"~/demo.py"
--'  1  21  ~/demo.py
-|4,39,1,21,1709305785,"~/demo.py"
--'  1  21  ~/demo.py
-|4,39,1,21,1709305785,"~/demo.py"
--'  1  21  ~/demo.py
-|4,39,1,21,1709305785,"~/demo.py"
--'  1  21  ~/demo.py
-|4,39,1,21,1709305785,"~/demo.py"
--'  1  21  ~/demo.py
-|4,39,1,21,1709305785,"~/demo.py"
--'  1  21  ~/demo.py
-|4,39,1,21,1709305785,"~/demo.py"
--'  1  21  ~/demo.py
-|4,39,1,21,1709305785,"~/demo.py"
--'  1  21  ~/demo.py
-|4,39,1,21,1709305785,"~/demo.py"
--'  1  21  ~/demo.py
-|4,39,1,21,1709305785,"~/demo.py"
--'  1  21  ~/demo.py
-|4,39,1,21,1709305785,"~/demo.py"
--'  1  21  ~/demo.py
-|4,39,1,21,1709305785,"~/demo.py"
--'  1  21  ~/demo.py
-|4,39,1,21,1709305785,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709305769,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709305769,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709305769,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709305769,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709305769,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709305769,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709305769,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709305769,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709305769,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709305769,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709305769,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709305769,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709305769,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709305769,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709305769,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709305769,"~/demo.py"
--'  1  0  ~/first_file/first.py
-|4,39,1,0,1709305655,"~/first_file/first.py"
--'  1  0  ~/first_file/first.py
-|4,39,1,0,1709305655,"~/first_file/first.py"
--'  7  71  ~/first_file/first.py
-|4,39,7,71,1709305609,"~/first_file/first.py"
--'  9  21  ~/first_file/first.py
-|4,39,9,21,1709305609,"~/first_file/first.py"
--'  8  21  ~/first_file/first.py
-|4,39,8,21,1709305609,"~/first_file/first.py"
--'  7  71  ~/first_file/first.py
-|4,39,7,71,1709305609,"~/first_file/first.py"
--'  9  21  ~/first_file/first.py
-|4,39,9,21,1709305609,"~/first_file/first.py"
--'  8  21  ~/first_file/first.py
-|4,39,8,21,1709305609,"~/first_file/first.py"
--'  9  21  ~/first_file/first.py
-|4,39,9,21,1709305609,"~/first_file/first.py"
--'  8  21  ~/first_file/first.py
-|4,39,8,21,1709305609,"~/first_file/first.py"
--'  8  21  ~/first_file/first.py
-|4,39,8,21,1709305609,"~/first_file/first.py"
--'  8  21  ~/first_file/first.py
-|4,39,8,21,1709305569,"~/first_file/first.py"
--'  8  21  ~/first_file/first.py
-|4,39,8,21,1709305569,"~/first_file/first.py"
--'  1  0  ~/first_file/first.py
-|4,39,1,0,1709305408,"~/first_file/first.py"
--'  1  0  ~/first_file/first.py
-|4,39,1,0,1709305408,"~/first_file/first.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
--'  16  28  ~/demo.py
-|4,39,16,28,1709304845,"~/demo.py"
+-'  5  2  /test_case.sh
+|4,39,5,2,1709369791,"/test_case.sh"
+-'  1  0  /test_case.sh
+|4,39,1,0,1709369441,"/test_case.sh"
+-'  5  3  ~/for_shell_1.sh
+|4,39,5,3,1709365652,"~/for_shell_1.sh"
+-'  5  3  ~/for_shell_1.sh
+|4,39,5,3,1709365652,"~/for_shell_1.sh"
+-'  1  0  ~/for_shell_1.sh
+|4,39,1,0,1709365555,"~/for_shell_1.sh"
+-'  1  0  ~/for_shell_1.sh
+|4,39,1,0,1709365555,"~/for_shell_1.sh"
+-'  10  16  ~/while_shell_3.sh
+|4,39,10,16,1709365396,"~/while_shell_3.sh"
+-'  10  16  ~/while_shell_3.sh
+|4,39,10,16,1709365396,"~/while_shell_3.sh"
+-'  10  16  ~/while_shell_3.sh
+|4,39,10,16,1709365396,"~/while_shell_3.sh"
+-'  10  16  ~/while_shell_3.sh
+|4,39,10,16,1709365396,"~/while_shell_3.sh"
+-'  10  3  ~/while_shell_3.sh
+|4,39,10,3,1709365297,"~/while_shell_3.sh"
+-'  10  3  ~/while_shell_3.sh
+|4,39,10,3,1709365297,"~/while_shell_3.sh"
+-'  10  3  ~/while_shell_3.sh
+|4,39,10,3,1709365297,"~/while_shell_3.sh"
+-'  10  3  ~/while_shell_3.sh
+|4,39,10,3,1709365297,"~/while_shell_3.sh"
+-'  1  0  ~/while_shell_3.sh
+|4,39,1,0,1709365000,"~/while_shell_3.sh"
+-'  1  0  ~/while_shell_3.sh
+|4,39,1,0,1709365000,"~/while_shell_3.sh"
+-'  1  0  ~/while_shell_3.sh
+|4,39,1,0,1709365000,"~/while_shell_3.sh"
+-'  1  0  ~/while_shell_3.sh
+|4,39,1,0,1709365000,"~/while_shell_3.sh"
+-'  1  0  ~/while_shell_3.sh
+|4,39,1,0,1709365000,"~/while_shell_3.sh"
+-'  1  0  ~/while_shell_3.sh
+|4,39,1,0,1709365000,"~/while_shell_3.sh"
+-'  1  0  ~/while_shell_3.sh
+|4,39,1,0,1709365000,"~/while_shell_3.sh"
+-'  1  0  ~/while_shell_3.sh
+|4,39,1,0,1709365000,"~/while_shell_3.sh"
+-'  5  3  ~/myfile.txt
+|4,39,5,3,1709364887,"~/myfile.txt"
+-'  5  3  ~/myfile.txt
+|4,39,5,3,1709364887,"~/myfile.txt"
+-'  5  3  ~/myfile.txt
+|4,39,5,3,1709364887,"~/myfile.txt"
+-'  5  3  ~/myfile.txt
+|4,39,5,3,1709364887,"~/myfile.txt"
+-'  5  3  ~/myfile.txt
+|4,39,5,3,1709364887,"~/myfile.txt"
+-'  5  3  ~/myfile.txt
+|4,39,5,3,1709364887,"~/myfile.txt"
+-'  5  3  ~/myfile.txt
+|4,39,5,3,1709364887,"~/myfile.txt"
+-'  5  3  ~/myfile.txt
+|4,39,5,3,1709364887,"~/myfile.txt"
+-'  5  3  ~/myfile.txt
+|4,39,5,3,1709364887,"~/myfile.txt"
+-'  5  3  ~/myfile.txt
+|4,39,5,3,1709364887,"~/myfile.txt"
+-'  5  3  ~/myfile.txt
+|4,39,5,3,1709364887,"~/myfile.txt"
+-'  5  3  ~/myfile.txt
+|4,39,5,3,1709364887,"~/myfile.txt"
+-'  5  3  ~/myfile.txt
+|4,39,5,3,1709364887,"~/myfile.txt"
+-'  5  3  ~/myfile.txt
+|4,39,5,3,1709364887,"~/myfile.txt"
+-'  5  3  ~/myfile.txt
+|4,39,5,3,1709364887,"~/myfile.txt"
+-'  5  3  ~/myfile.txt
+|4,39,5,3,1709364887,"~/myfile.txt"
+-'  1  0  ~/myfile.txt
+|4,39,1,0,1709364874,"~/myfile.txt"
+-'  1  0  ~/myfile.txt
+|4,39,1,0,1709364874,"~/myfile.txt"
+-'  1  0  ~/myfile.txt
+|4,39,1,0,1709364874,"~/myfile.txt"
+-'  1  0  ~/myfile.txt
+|4,39,1,0,1709364874,"~/myfile.txt"
+-'  1  0  ~/myfile.txt
+|4,39,1,0,1709364874,"~/myfile.txt"
+-'  1  0  ~/myfile.txt
+|4,39,1,0,1709364874,"~/myfile.txt"
+-'  1  0  ~/myfile.txt
+|4,39,1,0,1709364874,"~/myfile.txt"
+-'  1  0  ~/myfile.txt
+|4,39,1,0,1709364874,"~/myfile.txt"
+-'  1  0  ~/myfile.txt
+|4,39,1,0,1709364874,"~/myfile.txt"
+-'  1  0  ~/myfile.txt
+|4,39,1,0,1709364874,"~/myfile.txt"
+-'  1  0  ~/myfile.txt
+|4,39,1,0,1709364874,"~/myfile.txt"
+-'  1  0  ~/myfile.txt
+|4,39,1,0,1709364874,"~/myfile.txt"
+-'  1  0  ~/myfile.txt
+|4,39,1,0,1709364874,"~/myfile.txt"
+-'  1  0  ~/myfile.txt
+|4,39,1,0,1709364874,"~/myfile.txt"
+-'  1  0  ~/myfile.txt
+|4,39,1,0,1709364874,"~/myfile.txt"
+-'  1  0  ~/myfile.txt
+|4,39,1,0,1709364874,"~/myfile.txt"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  7  3  ~/while_shell.sh
+|4,39,7,3,1709364309,"~/while_shell.sh"
+-'  1  0  ~/while_shell.sh
+|4,39,1,0,1709364131,"~/while_shell.sh"
+-'  1  0  ~/while_shell.sh
+|4,39,1,0,1709364131,"~/while_shell.sh"
+-'  1  0  ~/while_shell.sh
+|4,39,1,0,1709364131,"~/while_shell.sh"
+-'  1  0  ~/while_shell.sh
+|4,39,1,0,1709364131,"~/while_shell.sh"
+-'  1  0  ~/while_shell.sh
+|4,39,1,0,1709364131,"~/while_shell.sh"
+-'  1  0  ~/while_shell.sh
+|4,39,1,0,1709364131,"~/while_shell.sh"
+-'  1  0  ~/while_shell.sh
+|4,39,1,0,1709364131,"~/while_shell.sh"
+-'  1  0  ~/while_shell.sh
+|4,39,1,0,1709364131,"~/while_shell.sh"
+-'  1  0  ~/while_shell.sh
+|4,39,1,0,1709364131,"~/while_shell.sh"
+-'  1  0  ~/while_shell.sh
+|4,39,1,0,1709364131,"~/while_shell.sh"
+-'  1  0  ~/while_shell.sh
+|4,39,1,0,1709364131,"~/while_shell.sh"
+-'  1  0  ~/while_shell.sh
+|4,39,1,0,1709364131,"~/while_shell.sh"
+-'  1  0  ~/while_shell.sh
+|4,39,1,0,1709364131,"~/while_shell.sh"
+-'  1  0  ~/while_shell.sh
+|4,39,1,0,1709364131,"~/while_shell.sh"
 
 # History of marks within files (newest to oldest):
+
+> /test_case.sh
+	*	1709369787	0
+	"	5	2
+	^	9	4
+	.	9	3
+	+	9	3
+
+> ~/for_shell_1.sh
+	*	1709365649	0
+	"	5	3
+	^	5	4
+	.	4	24
+	+	4	5
+	+	1	26
+	+	5	3
+	+	4	24
+
+> ~/while_shell_3.sh
+	*	1709365391	0
+	"	10	16
+	^	10	17
+	.	10	16
+	+	10	3
+	+	3	22
+	+	10	16
+
+> ~/myfile.txt
+	*	1709364884	0
+	"	5	3
+	^	5	4
+	.	5	0
+	+	5	0
+
+> ~/while_shell.sh
+	*	1709364305	0
+	"	7	3
+	^	7	4
+	.	7	3
+	+	2	29
+	+	4	5
+	+	2	29
+	+	7	3
+
+> ~/for_loop_2.sh
+	*	1709363721	0
+	"	1	30
+	^	1	31
+	.	1	29
+	+	4	3
+	+	1	29
+
+> ~/loop_for.sh
+	*	1709363341	0
+	"	3	30
+	^	3	31
+	.	3	30
+	+	4	3
+	+	3	30
+
+> ~/for_loop.sh
+	*	1709363208	0
+	"	2	27
+	^	2	28
+	.	2	27
+	+	1	41
+	+	4	6
+	+	2	25
+	+	5	4
+	+	4	17
+	+	2	27
+
+> ~/hello.sh
+	*	1709362369	0
+	"	2	16
+	^	2	17
+	.	2	16
+	+	1	18
+	+	2	16
+
+> ~/var_3.sh
+	*	1709360779	0
+	"	5	29
+	^	5	30
+	.	5	29
+	+	5	20
+	+	4	38
+	+	5	29
+
+> ~/myvar.sh
+	*	1709360036	0
+	"	3	21
+	^	3	22
+	.	3	21
+	+	3	21
+
+> ~/var_2.sh
+	*	1709359781	0
+	"	3	33
+	^	3	34
+	.	3	33
+	+	3	33
+
+> ~/var.sh
+	*	1709359116	0
+	"	3	8
+	^	3	9
+	.	3	8
+	+	3	8
+
+> ~/shell_2.sh
+	*	1709358839	0
+	"	1	10
+	^	1	11
+	.	2	0
+	+	7	16
+	+	8	19
+	+	9	0
+	+	1	11
+	+	2	0
+
+> ~/shell_1.sh
+	*	1709358108	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
 
 > ~/demo.py
 	*	1709308044	0
@@ -376,18 +505,6 @@
 	+	5	7
 	+	6	3
 	+	5	11
-
-> ~/for_loop.sh
-	*	1709293503	0
-	"	2	27
-	^	2	28
-	.	2	27
-	+	1	41
-	+	4	6
-	+	2	25
-	+	5	4
-	+	4	17
-	+	2	27
 
 > ~/if_condition_to.sh
 	*	1709292760	0

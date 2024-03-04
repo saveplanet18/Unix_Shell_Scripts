@@ -465,3 +465,127 @@ ip
 clear
 ifconfig
 if exit()
+echo "# Unix_Shell_Scripts" >> README.md
+git init
+git add README.md
+git add .
+git commit -m "shell Scripts"
+git config --global user.email "saveplanet18@gmail.com"
+git config --global user.name "saveplanet18"
+git commit -m "shell Scripts"
+git branch -M main
+git remote add origin https://github.com/saveplanet18/Unix_Shell_Scripts.git
+git push -u origin main
+git branch -M main
+git remote add origin https://github.com/saveplanet18/Unix_Shell_Scripts.git
+git push -u origin main
+clear
+echo "ramkrisna"
+vi shell_1.sh
+chmod +x shell_1.sh
+./shell_1.sh
+vi shell_1.sh
+./shell_1.sh
+vi shell_1.sh
+./shell_1.sh
+vi shell_1.sh
+./shell_1.sh
+which bas
+./shell_1
+./shell_1.sh
+#!/bin/bash
+chmod 755 shell_1.sh
+./shell_1.sh
+echo "hello word"
+vi shell_2.sh
+chmod 755 shell_2.sh
+./shell_2.sh
+vi shell_2.sh
+./shell_2.sh
+vi shell_2.sh
+./shell_2.sh
+vi shell_2.sh
+./shell_2.sh
+vi var.sh
+chmod +x var.sh
+./var.sh
+x="hello"
+expr $x+1
+expr
+expr --help
+vi var_2.sh
+chmod 755 var_2.sh
+./var_2.sh
+vi myvar.sh
+chmod 755 myvar.sh
+./myvar.sh
+myvar=hello word
+myvar=ramkrisna
+echo $myvar
+clear
+vi var_3.sh
+chmod +x var_3.sh
+./var_3.sh
+vi var_3.sh
+./var_3.sh
+ls -l
+-file
+ramkrisna_file
+ramkrisna
+read unser_name
+touch ${user_name}
+touch ${user_name}_file
+ramkrisna_file
+touch ramkrisna_file
+vi hello.sh
+chmod 755 hello.sh
+./hello.sh
+echo "hello \"word""
+hello
+
+
+clear
+echo *
+clear
+vi for_loop.sh
+clear
+vi for_loop.sh
+vi loop_for.sh
+chmod +x loop_for.sh
+./loop_for.sh
+vi loop_for.sh
+./loop_for.sh
+vi for_loop_2.sh
+chmod +x for_loop_2.sh
+./for_loop_2.sh
+vi for_loop_2.sh
+./for_loop_2.sh
+vi for_loop_2.sh
+./for_loop_2.sh
+clear
+vi while_shell.sh
+chmod +x while_shell.sh
+./while_shell.sh
+ls -l
+./while_shell.sh
+vi myfile.txt
+vi while_shell_3.sh
+chmod +x while_shell_3.sh
+./while_shell_3.sh
+vi while_shell_3.sh
+chmod +x while_shell_3.sh
+./while_shell_3.sh
+vi for_shell_1.sh
+chmod +x for_shell.sh
+chmod +x for_shell_1.sh
+./for_shell_1.sh
+cd ls -ld
+cd /
+ls -ld {,usr,usr/local}/{bin,sbin,lib}
+type [
+type
+type [
+which [
+ls -l /usr/bin/[
+ls -l /usr/bin/test
+vi test_case.sh
